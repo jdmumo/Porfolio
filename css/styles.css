@@ -92,7 +92,7 @@ header li {
 
 header a {
     display: block;
-    color: #34db58;
+    color: rgb(23, 116, 73);
     padding: 10px
 }
 
@@ -609,7 +609,7 @@ footer {
 
 #contact {
     padding: 50px 15px;
-    background: #34db5e;
+    background: #31ca57;
     text-align: center
 }
 
@@ -677,7 +677,7 @@ footer {
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #42db34;
+    color: rgb(23, 116, 73);
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: .5s ease all
